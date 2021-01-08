@@ -1,3 +1,13 @@
-/*
- * Base
- */
+h1 {
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+    font-weight: bold;
+    font-size: 110px;
+    color: blue;
+    text-align: center;
+    line-height: 500px;
+    height: 500px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
