@@ -1,4 +1,4 @@
-h1 {
+#typo {
     margin: 0;
     padding: 0;
     background-color: burlywood;
@@ -10,4 +10,5 @@ h1 {
     height: 500px;
     -webkit-user-select: none;
     -moz-user-select: none;
+    -ms-user-select: none;
 }
